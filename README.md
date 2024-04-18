@@ -17,7 +17,6 @@ I actively participate in a variety of tech-related competitions, pushing the bo
 - *NASA Space Apps Challenge:* Collaborated on global challenges using data provided by NASA
 - *FIRST Robotics Competition:* Competed in team-based robotics challenges
 - *TEAMS (Tests of Engineering Aptitude, Mathematics, and Science):* Engaged in tests that challenge engineering concepts
-- *FIRST LEGO League:* Developed solutions using LEGO Mindstorms
 
 ## 🌟 Highlights
 - Passionate about all things tech and coding
