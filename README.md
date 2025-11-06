@@ -9,8 +9,8 @@ Hello, I'm Ada! 👋 I'm a high school student with a passion for coding and tec
 - *Python:* Currently enhancing my understanding of Large Language Models (LLMs)
 - *C# with Unity:* Developing Virtual Reality (VR) applications
 - *Arduino Programming:* Creating interactive hardware projects
-- *Lego EV3 Mindstorms:* Designing and programming robotic solutions
-- *App Inventor:* Building Android applications with a block-based interface
+- *Java Develepment* Creating android applications
+- *Java WPILib* Creating competitive robotic projects
 
 ## 🚀 Competitions
 I actively participate in a variety of tech-related competitions, pushing the boundaries of what I can create and learn:
